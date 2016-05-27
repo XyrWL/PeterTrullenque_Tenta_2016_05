@@ -33,7 +33,7 @@ namespace StoreProject.Models
                         {
                             Name = "Apple",
                             ProductText = "These are some nice apples.",
-                            ProductNumber = 5,
+                            ProductNumber = "p-55",
                             ProductsInStock = 10,
                             Price = 5.5
                         },
@@ -41,7 +41,7 @@ namespace StoreProject.Models
                         {
                             Name = "Orange",
                             ProductText = "These are some decent oranges.",
-                            ProductNumber = 2,
+                            ProductNumber = "p-120",
                             ProductsInStock = 12,
                             Price = 4.9
                         }
@@ -57,7 +57,7 @@ namespace StoreProject.Models
                         {
                             Name = "Wine",
                             ProductText = "This is a pretty good wine.",
-                            ProductNumber = 4,
+                            ProductNumber = "p-200",
                             ProductsInStock = 20,
                             Price = 199.9
                         },
@@ -65,7 +65,7 @@ namespace StoreProject.Models
                         {
                             Name = "Beer",
                             ProductText = "This is an acceptable beer.",
-                            ProductNumber = 20,
+                            ProductNumber = "p-259",
                             ProductsInStock = 250,
                             Price = 9.9
                         }
